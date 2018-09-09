@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="temp">Temp</string>
+    <string name="condition">Condition</string>
+    <string name="location">Location</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="visibility">Visibility</string>
+    <string name="day">Day</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="condition_icon">Condition Icon</string>
+    <string name="wind">Wind</string>
+</resources>
